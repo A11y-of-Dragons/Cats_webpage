@@ -5,10 +5,13 @@ h1{
 h2{
     text-align: center;
 }
-
+h3{
+    text-align: center;
+}
 body {
     background-color: saddlebrown;
 }
+
 p1 {
     font-family: 'Arial Narrow', Arial, sans-serif;
     font-size: larger;
