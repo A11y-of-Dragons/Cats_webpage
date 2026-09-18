@@ -1,0 +1,55 @@
+
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+body {
+    background-color: saddlebrown;
+}
+p1 {
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    font-weight: lighter;
+}    
+img{
+    width:25%;
+    border-radius: 150px;
+    display: block;
+    margin: auto;
+}
+.green {
+    background-color: forestgreen;
+}
+.grey {
+    color:slategrey;
+}
+
+.light_blue{
+    color:rgb(38, 217, 224);
+}
+.flex-container{
+    display: flex;
+}
+.box{
+    background-color: goldenrod;
+    padding: 30px;
+}
+#big{
+ font-size: 50px;
+}
+#pink_background{
+    width:100%;
+    background-color: darkmagenta; 
+    border-radius: 100%;
+    text-align: center;
+    padding: 10px;
+}
+#bisque_background{
+    width: 100%;
+    background-color: bisque;
+    text-align: center;
+    padding: 5px;
+}
