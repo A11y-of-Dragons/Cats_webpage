@@ -9,13 +9,13 @@ h3{
     text-align: center;
 }
 body {
-    background-color: saddlebrown;
+    background-color: #6F3811;
 }
 
 p1 {
     font-family: 'Arial Narrow', Arial, sans-serif;
     font-size: larger;
-    font-weight: lighter;
+    font-weight: regular;
 }    
 img{
     width:25%;
@@ -24,21 +24,24 @@ img{
     margin: auto;
 }
 .green {
-    background-color: forestgreen;
+    background-color: #57FF62;
 }
-.grey {
-    color:slategrey;
+.pink {
+    color:#FFD6D6;
 }
 
 .light_blue{
-    color:rgb(38, 217, 224);
+    color:#9EEDF0;
+}
+.general_text{
+    color:#E0E0E0
 }
 
 .flex-container{
     display: flex;
 }
 .box{
-    background-color: goldenrod;
+    background-color: #E7EE63;
     padding: 30px;
 }
 #big{
@@ -46,14 +49,14 @@ img{
 }
 #pink_background{
     width:100%;
-    background-color: darkmagenta; 
+    background-color: #7A007A; 
     border-radius: 100%;
     text-align: center;
     padding: 10px;
 }
-#bisque_background{
+#Dark_blue_background{
     width: 100%;
-    background-color: bisque;
+    background-color: #0f439c;
     text-align: center;
     padding: 5px;
 }
