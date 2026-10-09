@@ -29,13 +29,12 @@ img{
 .light_blue{
     color:#9EEDF0;
 }
+
 .general_text{
     color:#E0E0E0
 }
 
-.flex-container{
-    display: flex;
-}
+
 .box{
     background-color: #E7EE63;
     padding: 30px;
